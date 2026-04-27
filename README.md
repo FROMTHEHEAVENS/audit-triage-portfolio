@@ -50,6 +50,7 @@ Direct wallet-to-wallet. No platform account required.
 ### Public Sample Report
 
 A redacted version of the K2 pre-contest packet: **[SAMPLE-REPORT.md](./SAMPLE-REPORT.md)**
+- **[SAMPLE-SOW.md](SAMPLE-SOW.md)** — Statement of Work template. Crypto-native: payment is acceptance. Standard \($500\), Pro \($1,500\), Sponsor-backed \($0 + handshake\).
 
 It shows the format a paying customer receives: executive summary, ranked findings with severity, reproduction notes, PoC evidence, and a concrete remediation checklist.
 
