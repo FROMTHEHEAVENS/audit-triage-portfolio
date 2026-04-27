@@ -30,7 +30,11 @@ For protocols with cross-chain bridges, messaging layers (LayerZero, Wormhole, H
 |---|---|---|
 | **Bridge infra review** | +$500 on any package | DVN/validator topology audit, RPC centralization map, accounting invariant gap analysis, blast-radius assessment, rate-limiting recommendations |
 
-**Payment:** USDC on Base, or ETH on mainnet. Direct wallet-to-wallet. No platform account required.
+**Payment:** USDC on Base (or ETH on mainnet) to:
+```
+0x37ff4a0A81C8bd801af97a25DE906240A3D59984
+```
+Direct wallet-to-wallet. No platform account required.
 
 ---
 
